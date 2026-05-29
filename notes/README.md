@@ -11,4 +11,3 @@ This repository contains my progress while learning Python through Kaggle and pr
 ## Tools Used
 - Python
 - Jupyter Notebook
-- Kaggle
